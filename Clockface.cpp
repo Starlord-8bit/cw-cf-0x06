@@ -1,6 +1,8 @@
 
 #include "Clockface.h"
 
+namespace CF06 {
+
 
 #define LIGHT_GREEN 0x754d
 #define DARK_GREEN 0x0264
@@ -111,3 +113,4 @@ void Clockface::updateLoadingBar(uint8_t seconds) {
   }
   
 }
+} // namespace CF06

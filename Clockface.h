@@ -16,6 +16,8 @@
 #include "Icons.h"
 #include "PKMN_RBYGSC4pt7b.h"
 
+namespace CF06 {
+
 
 
 
@@ -34,3 +36,5 @@ class Clockface: public IClockface {
     void updatePokemon();
     void updateLoadingBar(uint8_t seconds);
 };
+
+} // namespace CF06
