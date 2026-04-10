@@ -16,6 +16,8 @@
 #include "Icons.h"
 #include "PKMN_RBYGSC4pt7b.h"
 
+#define CLOCKFACE_NAME "cw-cf-0x06"
+
 namespace CF06 {
 
 
