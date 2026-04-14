@@ -11,9 +11,9 @@
 #include <WiFi.h>
 
 // Commons
-#include "IClockface.h"
+#include "widgets/clockface/IClockface.h"
 #include "assets.h"
-#include "Icons.h"
+#include "display/Icons.h"
 #include "PKMN_RBYGSC4pt7b.h"
 
 namespace CF06 {
